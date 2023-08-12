@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![str4wberryfps' GitHub stats](https://github-readme-stats.vercel.app/api?username=str4wberryfps)](https://github.com/anuraghazra/github-readme-stats)
+[![str4wberryfps' GitHub stats](https://github-readme-stats.vercel.app/api?username=str4wberryfps&show_icons=true&theme=gotham )](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **str4wberryfps/str4wberryfps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
