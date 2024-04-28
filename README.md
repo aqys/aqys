@@ -1,8 +1,10 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/aqys/aqys/header.png" align="center" style="width: 100%" />
+<img src="[https://raw.githubusercontent.com/aqys/aqys/header.png](https://raw.githubusercontent.com/aqys/aqys/main/header.png)" align="center" style="width: 100%" />
 </div>  
 
 # <div align="center"> 🦇🌹 </div>  
+
+## About Me
 
 - 🌎 I am from 🇩🇰
   
