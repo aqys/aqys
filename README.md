@@ -4,6 +4,8 @@
 
 # <div align="center"> 🦇🌹 </div>  
 
+![](https://komarev.com/ghpvc/?username=aqys)
+
 ## About Me
 
 - 🌎 I am from 🇩🇰
