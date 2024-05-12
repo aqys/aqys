@@ -8,14 +8,14 @@
 
 ### Languages:
 
-[<img alt="HTML5" src="https://img.shields.io/static/v1?label=&message=HTML5&color=191919&style=for-the-badge&logo=html5&logoColor=E34F26" />][website]
-[<img alt="PHP" src="https://img.shields.io/static/v1?label=&message=PHP&color=191919&style=for-the-badge&logo=php&logoColor=#777BB4" />][website]
-[<img alt="JavaScript" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][website]
-[<img alt="TypeScript" src="https://img.shields.io/static/v1?label=&message=TypeScript&color=191919&style=for-the-badge&logo=typescript&logoColor=3178C6" />][website]
-[<img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&color=191919&style=for-the-badge&logo=Python" />][website]
-[<img alt="LUA" src="https://img.shields.io/static/v1?label=&message=Lua&color=191919&style=for-the-badge&logo=lua&logoColor=2C2D72" />][website]
-[<img alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />][website]
-[<img alt="C#" src="https://img.shields.io/static/v1?label=&message=C%23&color=191919&style=for-the-badge&logo=csharp&logoColor=239120" />][website]
+[<img alt="HTML5" src="https://img.shields.io/static/v1?label=&message=HTML5&color=191919&style=for-the-badge&logo=html5&logoColor=E34F26" />]
+[<img alt="PHP" src="https://img.shields.io/static/v1?label=&message=PHP&color=191919&style=for-the-badge&logo=php&logoColor=#777BB4" />]
+[<img alt="JavaScript" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />]
+[<img alt="TypeScript" src="https://img.shields.io/static/v1?label=&message=TypeScript&color=191919&style=for-the-badge&logo=typescript&logoColor=3178C6" />]
+[<img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&color=191919&style=for-the-badge&logo=Python" />]
+[<img alt="LUA" src="https://img.shields.io/static/v1?label=&message=Lua&color=191919&style=for-the-badge&logo=lua&logoColor=2C2D72" />]
+[<img alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />]
+[<img alt="C#" src="https://img.shields.io/static/v1?label=&message=C%23&color=191919&style=for-the-badge&logo=csharp&logoColor=239120" />]
 
 ---
 
