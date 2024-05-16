@@ -24,9 +24,7 @@
   
 - 👩‍🎓 I am currently a student
   
-- 🎓 I’m currently learning C# and GDScript
-  
-- 🔥 I’m currently working on secret Godot Project
+- 🎓 I’m currently learning GDScript
 
 <br/>  
 
