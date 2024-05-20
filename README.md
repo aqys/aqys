@@ -31,5 +31,6 @@
 ## Github Stats  
 
 <div align-"center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqys&count_private=true&show_icons=true&theme=dark&hide=contribs" />
+![aqys's Stats](https://github-readme-stats.vercel.app/api?username=aqys&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![aqys's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqys&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 </div>
