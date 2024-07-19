@@ -23,8 +23,6 @@
 - 🌎 I am from 🇩🇰
   
 - 👩‍🎓 I am currently a student
-  
-- 🎓 I’m currently learning GDScript 
 
 ## Github Stats  
 
